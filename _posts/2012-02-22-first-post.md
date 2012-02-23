@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Post"
-category:
+category: test-posts
 tags: [test]
 ---
 {% include JB/setup %}
