@@ -9,9 +9,7 @@ tags: [test]
 This is just a simple post to test out the Jekyll Bootstrap blogging system.
 
 {% highlight java linenos %}
-public class Foo {
-  private static final Foo FOO = new Foo();
-
+public class HelloWorld {
   public static void main(String[] args){
     System.out.println("Hello World.");
   }
